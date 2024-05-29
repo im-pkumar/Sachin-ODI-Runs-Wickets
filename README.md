@@ -6,7 +6,7 @@ Uses 3 dashboards:
 3.  Runs and wickets versus each country he played using Line and Stacked Cloumn Chart.
 
 ## To view Dashboards in Power-BI App
-> Click on this Link to Download: [Sachin-ODI-Runs-Wickets](https://github.com/pk-iitdhn/Sachin-ODI-Runs-Wickets/blob/main/sachinODI.pbix)
+Click on this Link to Download: [Sachin-ODI-Runs-Wickets](https://github.com/pk-iitdhn/Sachin-ODI-Runs-Wickets/blob/main/sachinODI.pbix)
 > To check image files of Dashboards:
 > 1.  Click: [Main DashBoard](https://github.com/pk-iitdhn/Sachin-ODI-Runs-Wickets/blob/main/1.jpg)
 > 2.  Click: [Runs-Wickets-inCountry-eachGround](https://github.com/pk-iitdhn/Sachin-ODI-Runs-Wickets/blob/main/2.jpg)
